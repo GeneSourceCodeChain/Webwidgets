@@ -1,7 +1,3 @@
-# Webwidgets
-Web widgets for GeneSC tools
-
-## Wechat API 
 
 install:
 $ gem install wechat_public_platform
@@ -23,5 +19,3 @@ wechat_js_signature:
 
 user_info:
 # WechatPublicPlatform.get_user_info access_token, openid
-
-
